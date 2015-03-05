@@ -1,0 +1,14 @@
+# PellesC
+# =====================================
+# Project files
+*.tag
+*.ppx
+
+# Compiled Object files
+*.obj
+*.tag
+*.o
+*.obj
+
+# Output directory
+output/*.*
